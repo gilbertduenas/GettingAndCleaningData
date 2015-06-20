@@ -25,7 +25,7 @@ List of variables
 - dataSetSubject - combination of trainSubject and testSubject
 - trainX
 - testX
-- dataSet - combination of trainX and testX
+- dataSetX - combination of trainX and testX
 - trainY
 - testY
 - dataSetY - combination of trainY and testY

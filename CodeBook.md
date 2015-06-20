@@ -11,33 +11,21 @@ List of data text files
 
 - subject_train.txt
 - subject_test.txt
-
-
 - X_train.txt
 - X_test.txt
-
-
 - y_train
 - y_test.txt
-
-
 - features.txt
 - activity_labels.txt
-
-
 
 List of variables
 
 - trainSubject
 - testSubject
 - dataSetSubject - combination of trainSubject and testSubject
-
-
 - trainX
 - testX
 - dataSet - combination of trainX and testX
-
-
 - trainY
 - testY
 - dataSetY - combination of trainY and testY
